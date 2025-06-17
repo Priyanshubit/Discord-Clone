@@ -12,7 +12,7 @@ A modern, responsive **Discord UI Clone** built using **HTML** and **Tailwind CS
 🌈 CSS Gradients for smooth transitions  
 🌀 Hover Effects & Keyframe Animations  
 📱 Fully Responsive Layout  
-🧪 Built purely with **HTML + Tailwind CSS** (No JS!)
+🧪 Built purely with **HTML + Tailwind CSS** (No JavaScript!)
 
 ---
 
